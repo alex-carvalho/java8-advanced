@@ -15,4 +15,4 @@ Nem sempre executar uma operação em paralelo pode trazer benefícios, o custo 
 pode ser muito alto dependendo do volume dedados e o tipo de operação a ser relizada.
 
 
-Exemplos:  [ParallelStreams](src/main/java/com/ac/example/parallelStreams/ParallelStreams.java)
+Exemplos:  [ParallelStreams](ParallelStreams.java)
